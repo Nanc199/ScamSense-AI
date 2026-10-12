@@ -1,0 +1,11 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/analyze-audio/route.js")
+R.c("server/chunks/[root-of-the-server]__5c29577f._.js")
+R.c("server/chunks/node_modules_next_476c8c3e._.js")
+R.c("server/chunks/node_modules_google-auth-library_e272b0a4._.js")
+R.c("server/chunks/node_modules_ws_4eadb33f._.js")
+R.c("server/chunks/node_modules_@google_genai_dist_node_index_mjs_0d0d6908._.js")
+R.c("server/chunks/node_modules_ec7327e7._.js")
+R.c("server/chunks/[root-of-the-server]__7f53a9e0._.js")
+R.c("server/chunks/_next-internal_server_app_api_analyze-audio_route_actions_dc7a6fe7.js")
+R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/src/app/api/analyze-audio/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/src/app/api/analyze-audio/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
