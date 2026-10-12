@@ -1,0 +1,19 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api-docs/page": "/api-docs",
+  "/api/analyze-audio/route": "/api/analyze-audio",
+  "/api/analyze-image/route": "/api/analyze-image",
+  "/api/analyze/route": "/api/analyze",
+  "/api/scan/route": "/api/scan",
+  "/apple-icon.png/route": "/apple-icon.png",
+  "/how-it-works/page": "/how-it-works",
+  "/icon.png/route": "/icon.png",
+  "/ledger/page": "/ledger",
+  "/page": "/",
+  "/privacy/page": "/privacy",
+  "/robots.txt/route": "/robots.txt",
+  "/scan/page": "/scan",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/terms/page": "/terms"
+}

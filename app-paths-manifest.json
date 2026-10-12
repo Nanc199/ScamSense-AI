@@ -1,0 +1,8 @@
+{
+  "/api/analyze-audio/route": "app/api/analyze-audio/route.js",
+  "/api/analyze-image/route": "app/api/analyze-image/route.js",
+  "/api/analyze/route": "app/api/analyze/route.js",
+  "/api/scan/route": "app/api/scan/route.js",
+  "/page": "app/page.js",
+  "/scan/page": "app/scan/page.js"
+}
